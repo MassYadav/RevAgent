@@ -1,0 +1,30 @@
+# Core LLM APIs
+openai
+mistralai
+
+# LangChain ecosystem
+langchain
+langchain-core
+langchain-community
+
+# Env & config
+python-dotenv
+
+# Tokenization / utils
+tiktoken
+
+# HTTP / API calls
+httpx
+requests
+
+# Data handling
+pydantic
+numpy
+
+# Optional (useful for agents)
+faiss-cpu
+chromadb
+
+# Optional (async + performance)
+aiohttp
+uvloop
